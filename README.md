@@ -126,7 +126,7 @@ contracts/
 ### 📹 Demo Video
 Watch the full demonstration of the Private Music Royalty Distribution System:
 
-[![Demo Video](/Demo%20Video.mp4)
+[![Demo Video](/PrivateMusicRoyalty.mp4)
 
 **Video Contents:**
 - System overview and features
@@ -137,7 +137,7 @@ Watch the full demonstration of the Private Music Royalty Distribution System:
 
 ### 📸 On-Chain Transaction Screenshots
 
-
+PrivateMusicRoyalty.png
 ## 📱 User Guide
 
 ### 1. Connect Wallet
